@@ -1,8 +1,7 @@
-/node_modules
+node_modules
 /.pnp
 .pnp.js
 default.json
-client/node_modules
 production.json
 
 .DS_Store
