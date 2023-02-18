@@ -2,26 +2,25 @@
 
 > Full Stack Website built with the MERN stack & Redux.
 
-live demo for the application <a href="https://link-up1.herokuapp.com/">here</a>
-
-## MOTIVATION
+live demo for the application <a href="https://link-up-akshat-gour.vercel.app/">here</a>
 
 ## Screen Shots
 
 Landing Screen
 
-![screenshot](https://github.com/Akshat-gour/LinkUp/blob/master/images/1.png?raw=true)
+![screenshot](https://github.com/Akshat-gour/LinkUp/blob/master/screenshots/home.png?raw=true)
 
 Developer Screen
 
-![screenshot](https://github.com/Akshat-gour/LinkUp/blob/master/images/3.png?raw=true)
+![screenshot](https://github.com/Akshat-gour/LinkUp/blob/master/screenshots/Developers.png?raw=true)
 
 Dashboard Screen
 
-![screenshot](https://github.com/Akshat-gour/LinkUp/blob/master/images/2.png?raw=true)
+![screenshot](https://github.com/Akshat-gour/LinkUp/blob/master/screenshots/dashboard.png?raw=true)
 
 Profile Screen
-![screenshot](https://github.com/Akshat-gour/LinkUp/blob/master/images/4.png?raw=true)
+
+![screenshot](https://github.com/Akshat-gour/LinkUp/blob/master/screenshots/post%20.png?raw=true)
 
 ### Key Users
 
@@ -58,4 +57,4 @@ Profile Screen
 
 ## Deploy
 
-website deployed at this <a href="https://link-up1.herokuapp.com/">link</a>
+website deployed at this <a href="https://link-up-akshat-gour.vercel.app/">link</a>
